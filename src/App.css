@@ -15,7 +15,7 @@ background {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 10px; /* Adjust as needed */
+    margin-top: 10px
   }
 
   nav ul li {
@@ -26,8 +26,7 @@ background {
     padding-left: 15px;
     padding-right: 15px;
   }
-
-  .col-2,
+   
   .col-3 {
     width: 100%;
     text-align: center;
@@ -63,9 +62,9 @@ body {
    }
 
    .logo h1 {
-   font-size: 24px; /* Adjust the font size as needed */
-   margin-right: 20px; /* Adjust the margin as needed */
-   color: #eceaea; /* Set the text color */
+   font-size: 24px;
+   margin-right: 20px;
+   color: #eceaea; 
    }
 
    nav {
@@ -83,16 +82,15 @@ body {
    margin-left: 20px;
    }
 
-   /* Add any other styles for navigation links as needed */
    nav a {
    text-decoration: none;
-   color: #fff; /* Set the text color */
+   color: #fff; 
    font-weight: bold;
-   font-size: 16px; /* Adjust the font size as needed */
+   font-size: 16px;
    }
 
    nav a:hover {
-   color: #1b94c8; /* Set the hover color */
+   color: #1b94c8; 
    }
 
 
@@ -103,7 +101,7 @@ body {
       margin-top: 50px;
       padding: 70px 0;
       opacity: 0;
-      animation: fadeIn 2s forwards; /* Animation duration: 1s */
+      animation: fadeIn 2s forwards; 
    }
 
    @keyframes fadeIn {
@@ -231,7 +229,7 @@ body {
       margin-top: 10px;
       padding: 70px 0;
       opacity: 0;
-      animation: fadeIn 1s forwards; /* Animation duration: 1s */
+      animation: fadeIn 1s forwards; 
    }
 
    @keyframes fadeIn {
